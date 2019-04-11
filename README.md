@@ -2,6 +2,8 @@
 ### > For V School // Full Stack JavaScript // January 2019 Cohort
 #### Demo:
 - <a href="http://myrestaurantapp.surge.sh/" target="_blank">Restaurant App</a>
+
+http://myrestaurantapp.surge.sh/
 #### Completed according to assignment instructions: 
 - https://coursework.vschool.io/personal-react-site/
 #### Technologies Used
